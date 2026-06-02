@@ -42,8 +42,7 @@ const submitForm = async () => {
         subject,
         name: name.value,
         email: email.value,
-        message: message.value,
-        'g-recaptcha-response': recaptchaToken
+        message: message.value
       })
     })
 
