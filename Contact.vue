@@ -86,7 +86,7 @@ const submitForm = async () => {
         <input v-model="email" type="email" name="email" placeholder="Email Address" required>
         <textarea v-model="message" name="message" rows="5" placeholder="Your Message" required></textarea>
 
-        <div class="g-recaptcha" data-sitekey="6LeGwwgtAAAAAMj-oaSobNBMlBYhNl-QQfH1pIAo"></div>
+        <div class="g-recaptcha" data-sitekey="6LeGwwgtAAAAAMj-oaSobNBMlBYhNI-QQfH1pIAo"></div>
 
         <div class="contact-bottom">
           <div class="social-icons">
