@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "E-commerce",
+        "titleRest": "API Documentation",
+        "description": "Dynamic E-Commerce workflow management with secure authentication, order processing, real-time inventory updates, and well-structured backend endpoints documented in Postman.",
+        "tags": ["Node.js", "Express", "MongoDB", "Postman"],
+        "primaryLink": "https://documenter.getpostman.com/view/51820545/2sBXqKnKEQ",
+        "primaryLabel": "View API Docs",
+        "secondaryLink": "https://git.zuitt.co/B606/csp2-b606-marasigan-rocero",
+        "secondaryLabel": "View Code"
+    },
+    {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "Course Booking",
+        "titleRest": "API Documentation",
+        "description": "RESTful API documentation for course enrollment with user registration, authentication, account handling, and streamlined course management workflows.",
+        "tags": ["REST API", "Node.js", "Express", "Postman"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
+    },
+    {
+        "id": 3,
+        "image": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "Course Booking",
+        "titleRest": "App",
+        "description": "A MERN-stack course enrollment platform featuring user registration, authentication, profile management, and course browsing in one responsive application.",
+        "tags": ["MongoDB", "Express", "React", "Node.js"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
+    },
+    {
+        "id": 4,
+        "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "E-commerce",
+        "titleRest": "App",
+        "description": "A MERN E-Commerce platform with product catalog browsing, filtering, search, secure checkout flow, and an admin dashboard for store management.",
+        "tags": ["MERN", "Admin Panel", "Authentication", "Responsive"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "http://zuitt-bootcamp-prod-606-9561-marasigan.s3-website.us-east-1.amazonaws.com/",
+        "secondaryLabel": "Live Demo"
+    },
+    {
+        "id": 5,
+        "image": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "Airline Booking",
+        "titleRest": "System Mockup",
+        "description": "A conceptual UI design for an airline booking system focused on clean layouts, intuitive search flow, booking steps, and user-friendly travel interactions.",
+        "tags": ["UI Design", "Wireframe", "Mockup", "UX Flow"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
+    },
+    {
+        "id": 6,
+        "image": "https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "Airline Booking",
+        "titleRest": "System Prototype",
+        "description": "Interactive prototype simulating the full airline booking journey, including search, booking details, reservation flow, and ticket confirmation screens.",
+        "tags": ["Prototype", "UX", "User Flow", "Interaction"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
+    },
+    {
+        "id": 7,
+        "image": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "JavaScript",
+        "titleRest": "Short Courses Capstone",
+        "description": "A capstone placeholder for future JavaScript projects, ready to showcase problem-solving, dynamic UI interactions, and practical front-end functionality.",
+        "tags": ["JavaScript", "DOM", "Frontend", "Capstone"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
+    },
+    {
+        "id": 8,
+        "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "Python",
+        "titleRest": "Short Courses Capstone",
+        "description": "A capstone placeholder for Python-based solutions, designed to highlight scripting, automation, logic building, and scalable project structure.",
+        "tags": ["Python", "Automation", "Backend", "Capstone"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
+    },
+    {
+        "id": 9,
+        "image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "C#",
+        "titleRest": "Short Courses Capstone",
+        "description": "A capstone placeholder for C# applications, built to present desktop, object-oriented, and application development skills in a polished card layout.",
+        "tags": ["C#", ".NET", "OOP", "Capstone"],
+        "primaryLink": "#",
+        "primaryLabel": "Contact Me",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
+    }
+]
