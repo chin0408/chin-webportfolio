@@ -44,7 +44,7 @@
         "tags": ["MERN", "Admin Panel", "Authentication", "Responsive"],
         "primaryLink": "#",
         "primaryLabel": "Contact Me",
-        "secondaryLink": "http://zuitt-bootcamp-prod-606-9561-marasigan.s3-website.us-east-1.amazonaws.com/",
+        "secondaryLink": "https://cartify-iota-blush.vercel.app/login",
         "secondaryLabel": "Live Demo"
     },
     {
