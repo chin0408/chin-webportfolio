@@ -32,8 +32,8 @@
         "tags": ["MongoDB", "Express", "React", "Node.js"],
         "primaryLink": "#",
         "primaryLabel": "Contact Me",
-        "secondaryLink": "#",
-        "secondaryLabel": "View Code"
+        "secondaryLink": "https://course-booking-app-sigma.vercel.app/",
+        "secondaryLabel": "Live Demo"
     },
     {
         "id": 4,
