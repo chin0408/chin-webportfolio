@@ -8,7 +8,7 @@
         "tags": ["Node.js", "Express", "MongoDB", "Postman"],
         "primaryLink": "https://documenter.getpostman.com/view/51820545/2sBXqKnKEQ",
         "primaryLabel": "View API Docs",
-        "secondaryLink": "https://git.zuitt.co/B606/csp2-b606-marasigan-rocero",
+        "secondaryLink": "https://github.com/chin0408/E-commerceAPP-Cartify/tree/main/backend",
         "secondaryLabel": "View Code"
     },
     {
@@ -18,9 +18,9 @@
         "titleRest": "API Documentation",
         "description": "RESTful API documentation for course enrollment with user registration, authentication, account handling, and streamlined course management workflows.",
         "tags": ["REST API", "Node.js", "Express", "Postman"],
-        "primaryLink": "#",
-        "primaryLabel": "Contact Me",
-        "secondaryLink": "#",
+        "primaryLink": "https://documenter.getpostman.com/view/51820545/2sBXwsLpwA",
+        "primaryLabel": "View API Docs",
+        "secondaryLink": "https://github.com/chin0408/courseBookingApp/tree/main/backend",
         "secondaryLabel": "View Code"
     },
     {
@@ -28,12 +28,12 @@
         "image": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "accent": "Course Booking",
         "titleRest": "App",
-        "description": "A MERN-stack course enrollment platform featuring user registration, authentication, profile management, and course browsing in one responsive application.",
+        "description": "A MEVN-stack course enrollment platform featuring user registration, authentication, profile management, and course browsing in one responsive application.",
         "tags": ["MongoDB", "Express", "React", "Node.js"],
-        "primaryLink": "#",
-        "primaryLabel": "Contact Me",
-        "secondaryLink": "https://course-booking-app-sigma.vercel.app/",
-        "secondaryLabel": "Live Demo"
+        "primaryLink": "https://course-booking-app-sigma.vercel.app/",
+        "primaryLabel": "Live Demo",
+        "secondaryLink": "https://github.com/chin0408/courseBookingApp",
+        "secondaryLabel": "View Code"
     },
     {
         "id": 4,
@@ -42,10 +42,10 @@
         "titleRest": "App",
         "description": "A MERN E-Commerce platform with product catalog browsing, filtering, search, secure checkout flow, and an admin dashboard for store management.",
         "tags": ["MERN", "Admin Panel", "Authentication", "Responsive"],
-        "primaryLink": "#",
-        "primaryLabel": "Contact Me",
-        "secondaryLink": "https://cartify-iota-blush.vercel.app/login",
-        "secondaryLabel": "Live Demo"
+        "primaryLink": "https://cartify-iota-blush.vercel.app/login",
+        "primaryLabel": "Live Demo",
+        "secondaryLink": "https://github.com/chin0408/E-commerceAPP-Cartify",
+        "secondaryLabel": "View Code"
     },
     {
         "id": 5,
