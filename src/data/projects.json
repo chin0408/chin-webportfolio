@@ -56,8 +56,8 @@
         "tags": ["UI Design", "Wireframe", "Mockup", "UX Flow"],
         "primaryLink": "#",
         "primaryLabel": "Contact Me",
-        "secondaryLink": "#",
-        "secondaryLabel": "View Code"
+        "secondaryLink": "https://www.figma.com/design/F4fPWoBoTkl1y6iyxX5SEI/AirBook-PH---MCP--My-Copy-?node-id=0-1&t=NzQMxCPaBmnVCtVX-1",
+        "secondaryLabel": "View FIGMA"
     },
     {
         "id": 6,
@@ -66,9 +66,9 @@
         "titleRest": "System Prototype",
         "description": "Interactive prototype simulating the full airline booking journey, including search, booking details, reservation flow, and ticket confirmation screens.",
         "tags": ["Prototype", "UX", "User Flow", "Interaction"],
-        "primaryLink": "#",
-        "primaryLabel": "Contact Me",
-        "secondaryLink": "#",
+        "primaryLink": "https://airbook-ph.vercel.app",
+        "primaryLabel": "Live Demo",
+        "secondaryLink": "https://github.com/chin0408/airbook-ph",
         "secondaryLabel": "View Code"
     },
     {
