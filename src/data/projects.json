@@ -116,7 +116,7 @@
         "tags": ["Vue.js", "Pinia", "Bootstrap", "Vite"],
         "primaryLink": "https://movies-app-client-nu.vercel.app/",
         "primaryLabel": "Live Demo",
-        "secondaryLink": "#",
+        "secondaryLink": "https://github.com/chin0408/moviesAppClient",
         "secondaryLabel": "View Code"
     }
 ]
