@@ -106,5 +106,17 @@
         "primaryLabel": "Contact Me",
         "secondaryLink": "#",
         "secondaryLabel": "View Code"
+    },
+    {
+        "id": 10,
+        "image": "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "accent": "Movie",
+        "titleRest": "App",
+        "description": "A Vue.js movie browsing application with search, filtering, and detailed movie information pages, built with Pinia state management and Bootstrap for a responsive UI.",
+        "tags": ["Vue.js", "Pinia", "Bootstrap", "Vite"],
+        "primaryLink": "https://movies-app-client-nu.vercel.app/",
+        "primaryLabel": "Live Demo",
+        "secondaryLink": "#",
+        "secondaryLabel": "View Code"
     }
 ]
