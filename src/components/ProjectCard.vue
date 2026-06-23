@@ -4,6 +4,14 @@ import { defineProps } from 'vue'
 defineProps({
     project: Object
 })
+
+function openInLargeWindow(url) {
+    const width = 1200
+    const height = 800
+    const left = (screen.width - width) / 2
+    const top = (screen.height - height) / 2
+    window.open(url, '_blank', `width=${width},height=${height},left=${left},top=${top},resizable=yes,scrollbars=yes`)
+}
 </script>
 
 <template>
@@ -24,7 +32,7 @@ defineProps({
                     <a :href="project.primaryLink" target="_blank" class="project-btn project-btn-primary">
                         {{ project.primaryLabel }}
                     </a>
-                    <a :href="project.secondaryLink" target="_blank" class="project-btn project-btn-secondary">
+                    <a :href="project.secondaryLink" @click.prevent="openInLargeWindow(project.secondaryLink)" class="project-btn project-btn-secondary">
                         {{ project.secondaryLabel }}
                     </a>
                 </div>
